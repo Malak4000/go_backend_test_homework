@@ -7,7 +7,7 @@ import (
 func Add(a, b int) int {
 	return a + b
 }
-// сделаем вывод и посмотрим
+// сделаем вывод и посмотрим что к чему
 func main() {
 	fmt.Println("Я домашка")
 }
